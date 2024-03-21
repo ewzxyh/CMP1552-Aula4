@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cor_nome_aluno">#333333</color> <!-- A darker shade for text -->
+    <color name="cor_nota_aluno">#FF5722</color> <!-- A bright color for grades -->
+</resources>
+
